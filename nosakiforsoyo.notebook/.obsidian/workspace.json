@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d8d2649c9bb277ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "daddfa6ec19f5f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76836a07301a956f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javaweb学习/数据库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8279bb0cdbf338ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e252d3bf80f5f4a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b1e76f584061baf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b0a5595172f11f69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb4d40c55b6b8f2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba2c8784023e6d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0239f7899e95e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71455941fe2a1b4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "javaweb学习/servlet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "servlet 的反向链接列表"
+            }
+          },
+          {
+            "id": "e4d9798ccf0005a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "javaweb学习/servlet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "servlet 的出链列表"
+            }
+          },
+          {
+            "id": "bc7eb5f9997ed8ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f3e958810b3fb471",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "javaweb学习/servlet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "servlet 的大纲"
+            }
+          },
+          {
+            "id": "104aeec4e80092bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "76836a07301a956f",
+  "lastOpenFiles": [
+    "未命名.base",
+    "javaweb学习/数据库.md",
+    "javaweb学习/jsp.md",
+    "javaweb学习/servlet.md",
+    "Excalidraw/Drawing 2025-11-09 22.00.02.excalidraw.md",
+    "Excalidraw",
+    "2025-11-09.md",
+    "javaweb学习",
+    "Excalidraw/Drawing 2025-11-09 21.51.26.excalidraw.md",
+    "欢迎.md",
+    "Drawing 2025-11-09 21.48.22.excalidraw.md"
+  ]
+}
