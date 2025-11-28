@@ -31,7 +31,7 @@ destory():销毁
 ### 2025.11.19
 
 cookie：用于缓存不重要的数据，保存在浏览器，  
-```java
+```
 //创建Cookie，响应客户端
 Cookie cookie =new Cookie("name","tim")
 response.addCookie(cookie);

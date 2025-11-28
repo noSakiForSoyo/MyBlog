@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin"
 ]
