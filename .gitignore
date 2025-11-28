@@ -1,0 +1,18 @@
+# 忽略所有 target 文件夹（不管在哪一层）
+**/target/
+
+# 忽略所有 .idea 文件夹
+**/.idea/
+
+# 忽略所有 IntelliJ 项目文件
+**/*.iml
+
+# 忽略 Obsidian 配置（如果你不想推送）
+**/.obsidian/
+
+# 忽略日志
+**/*.log
+
+# 忽略系统文件
+**/.DS_Store
+**/Thumbs.db
